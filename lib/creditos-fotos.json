@@ -1,0 +1,146 @@
+{
+ "hero": {
+  "creator": "raneko",
+  "license": "by",
+  "title": "Ashiya Burger (avocado)",
+  "foreign_landing_url": "https://www.flickr.com/photos/24926669@N07/5678751677",
+  "src": "assets/img/hero.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "hamburguesa-clasica": {
+  "src": "assets/img/hamburguesa-clasica.webp",
+  "title": "Nau's Enfield Drug - Large Bacon Cheeseburger",
+  "creator": "BurgerAustin",
+  "creator_url": "https://www.flickr.com/photos/42022505@N03",
+  "license": "by-sa",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/42022505@N03/5007282483",
+  "source": "flickr"
+ },
+ "hamburguesa-doble": {
+  "src": "assets/img/hamburguesa-doble.webp",
+  "title": "Burger King double cheeseburger (foodirl.com submission)",
+  "creator": "Razor512",
+  "creator_url": "https://www.flickr.com/photos/13144581@N00",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/13144581@N00/4088184943",
+  "source": "flickr"
+ },
+ "hamburguesa-bbq": {
+  "src": "assets/img/hamburguesa-bbq.webp",
+  "title": "Crispy Bacon and Cheese Burger AUD9.90, Snack Fries AUD3.30 - Grill'd QV",
+  "creator": "avlxyz",
+  "creator_url": "https://www.flickr.com/photos/10559879@N00",
+  "license": "by-sa",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/10559879@N00/3928073035",
+  "source": "flickr"
+ },
+ "hamburguesa-pollo": {
+  "src": "assets/img/hamburguesa-pollo.webp",
+  "title": "Fried Chicken Sandwich @ Peels",
+  "creator": "David Berkowitz",
+  "creator_url": "https://www.flickr.com/photos/25897810@N00",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/25897810@N00/7610917416",
+  "source": "flickr"
+ },
+ "perro-sencillo": {
+  "creator": "Jeffrey_Allen",
+  "license": "by",
+  "title": "Turkey Chili Dog",
+  "foreign_landing_url": "https://www.flickr.com/photos/41092497@N00/3774503085",
+  "src": "assets/img/perro-sencillo.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "perro-especial": {
+  "creator": "jeffreyw",
+  "license": "by",
+  "title": "Mmm... chili dogs",
+  "foreign_landing_url": "https://www.flickr.com/photos/7927684@N03/10320896183",
+  "src": "assets/img/perro-especial.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "salchipapa": {
+  "src": "assets/img/salchipapa.webp",
+  "title": "French fries&sausage with curry sauce",
+  "creator": "homecooked by deedee",
+  "creator_url": "https://www.flickr.com/photos/29850859@N05",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/29850859@N05/4272226202",
+  "source": "flickr"
+ },
+ "papas-cheddar": {
+  "creator": "jeffreyw",
+  "license": "by",
+  "title": "Mmm... chili cheese fries",
+  "foreign_landing_url": "https://www.flickr.com/photos/7927684@N03/7235184660",
+  "src": "assets/img/papas-cheddar.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "alitas": {
+  "src": "assets/img/alitas.webp",
+  "title": "02 Buffalo Chicken Wings - Blondie's",
+  "creator": "jasonlam",
+  "creator_url": "https://www.flickr.com/photos/93512023@N00",
+  "license": "by-sa",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/93512023@N00/4102772789",
+  "source": "flickr"
+ },
+ "gaseosa": {
+  "src": "assets/img/gaseosa.webp",
+  "title": "drink diet coke! You are sweet enough as you are",
+  "creator": "Darwin Bell",
+  "creator_url": "https://www.flickr.com/photos/53611153@N00",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/53611153@N00/305281265",
+  "source": "flickr"
+ },
+ "limonada": {
+  "creator": "Bekathwia",
+  "license": "by-sa",
+  "title": "Lemonade",
+  "foreign_landing_url": "https://www.flickr.com/photos/23243094@N00/2487039113",
+  "src": "assets/img/limonada.webp",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+ },
+ "malteada": {
+  "creator": "Alexandra E Rust",
+  "license": "by",
+  "title": "Chocolate banana milkshake ingredients",
+  "foreign_landing_url": "https://www.flickr.com/photos/69670601@N05/9771001476",
+  "src": "assets/img/malteada.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "brownie": {
+  "creator": "Farmers Restaurant Group",
+  "license": "by",
+  "title": "Chocolate Brownie Sundae",
+  "foreign_landing_url": "https://www.flickr.com/photos/51564099@N02/4742291745",
+  "src": "assets/img/brownie.webp",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/"
+ },
+ "combo": {
+  "src": "assets/img/combo.webp",
+  "title": "1/3 lb. Bacon Burger with fries at Hegenburger",
+  "creator": "pointnshoot",
+  "creator_url": "https://www.flickr.com/photos/18244673@N00",
+  "license": "by",
+  "license_version": "2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "foreign_landing_url": "https://www.flickr.com/photos/18244673@N00/678872722",
+  "source": "flickr"
+ }
+}
